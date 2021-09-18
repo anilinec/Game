@@ -1,0 +1,29 @@
+body {
+  background-color: black; }
+
+main {
+  background-color: #000000; }
+
+.site-header {
+  background-color: #242222;
+  font-size: 20px; }
+
+.site-header a {
+  color: #aaaaaa;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold; }
+
+.site-header a:hover {
+  color: white; }
+
+video {
+  margin-bottom: 10px;
+  width: 100%;
+  height: auto; }
+
+section .text1 {
+  color: white; }
+
+section .text2 {
+  color: #8b8b8b; }
